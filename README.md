@@ -1,5 +1,6 @@
 # Finding Timestamps
 
+## About
 Finding_TS is a proof of concept and is far from perfect. It uses OpenCV (cv2) to get the average light in a frame. It is slow and It times triggers in low light scenes. Even with its flaws, it's nice to not watch every episode just for Chapter Timestamps.
 
 ## Installation
